@@ -1,0 +1,11 @@
+{
+    "name": "bower-asset/zxcvbn",
+    "description": "PHP Package Test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sa3hin"
+        }
+    ],
+}
